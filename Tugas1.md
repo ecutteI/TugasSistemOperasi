@@ -20,6 +20,8 @@
 - **1.8.** Saat terbuka ubuntu laptop ku bertemu dengan masalah, yaitu belum mematikan Rapid Storage Technology (RST), jadi aku membuka BIOS dan menggantikan SATA Mode-nya dari “Intel with RST” menjadi “AHCI”.
 - **1.9.** Saat memboot dengan Ubuntu lagi, masalah sudah terselesaikan.
 - **1.10.** Ubuntu sudah terinstal.
+- <img width="1920" height="1080" alt="0" src="https://github.com/user-attachments/assets/7eee8419-a4ed-4f06-afad-40292ab2305a" />
+
 
 ## 2. Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point?
 “/” Pada mouse point memberi tahu Ubuntu partisi tersebut akan menjadi partisi root, tempat seluruh sistem operasi akan diinstal.
