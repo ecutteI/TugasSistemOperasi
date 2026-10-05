@@ -10,6 +10,7 @@
  
 ## 1. Lihat peralatan I/O, *character device*, yang ada di sistem komputer.
 Menggunakan command ls -l /dev | grep "^c"
+<br>
  <img width="626" height="1001" alt="image" src="https://github.com/user-attachments/assets/a1a30404-99ef-4a83-b9eb-106ead6e2f82" />
 
 ## 2. Buatlah sub direktori januari, februari dan maret sekaligus pada direktori latihan 5.
@@ -32,4 +33,13 @@ Menggunakan command ls -l /dev | grep "^c"
 
 ## 8. Ubahkan kepemilikan sub direktori februari sehingga *user* dan *group* hanya dapat melakukan *read*, dan cobalah untuk membuat direktori baru haha pada sub direktori februari.
 <img width="779" height="61" alt="image" src="https://github.com/user-attachments/assets/783e355d-d035-4109-8546-bf29c9ba5bd1" />
-*Permission Denied* karena direktori 
+<br>
+*Permission Denied* karena membuat isi direktori membutuhkan izin write
+
+## 9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan nilai *default*-nya?
+<img width="716" height="168" alt="image" src="https://github.com/user-attachments/assets/1a86330e-6ccc-4e1c-8849-889e7f179598" />
+
+## 10. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah list perhatikan berapa link yang terjadi?
+<img width="725" height="162" alt="image" src="https://github.com/user-attachments/assets/27bba9c0-9297-4e9b-bf4b-9b76d02db6af" />
+<br> 
+Ada 3 kali link terjadi
