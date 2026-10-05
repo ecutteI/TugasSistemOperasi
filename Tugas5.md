@@ -1,4 +1,4 @@
-<img width="778" height="43" alt="image" src="https://github.com/user-attachments/assets/70b70977-9d1c-4015-8996-4acb4ce49566" /># TUGAS 5 SISTEM OPERASI
+# TUGAS 5 SISTEM OPERASI
  
 **Nama** : Fadel Mahmud Athallah
  
