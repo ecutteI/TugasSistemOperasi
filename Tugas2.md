@@ -1,4 +1,4 @@
-<img width="574" height="136" alt="1" src="https://github.com/user-attachments/assets/ef3c50ee-597c-4089-b5be-f33b8402f79d" /># TUGAS 2 SISTEM OPERASI
+# TUGAS 2 SISTEM OPERASI
  
 **Nama** : Fadel Mahmud Athallah
  
