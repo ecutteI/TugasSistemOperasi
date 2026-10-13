@@ -15,4 +15,11 @@
 <br>
 <img width="594" height="44" alt="image" src="https://github.com/user-attachments/assets/16081fe1-8c14-461b-8be8-97e13f080dae" />
 
-### b. 
+### b. Asumsi nama anda stD02001, maka edit semua profile yang ada 
+<img width="594" height="44" alt="image" src="https://github.com/user-attachments/assets/b2ce8025-eabb-4066-90e7-ffc85fc557d8" />
+<br>
+<img width="594" height="44" alt="image" src="https://github.com/user-attachments/assets/924a742a-f976-4716-8e7e-28a5ed367b09" />
+<br>
+<img width="594" height="44" alt="image" src="https://github.com/user-attachments/assets/e2fe9ab1-dc18-404d-b557-e3b698ec8cc1" />
+<br> 
+<img width="632" height="261" alt="image" src="https://github.com/user-attachments/assets/9d1bc6ec-2da3-406a-82bf-f290a3f46cc9" />
