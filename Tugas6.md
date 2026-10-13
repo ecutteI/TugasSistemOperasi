@@ -37,7 +37,7 @@
 ### c. Jalankan instruksi subtitute user, kemudian keluar dengan perintah exit.
 <img width="617" height="161" alt="image" src="https://github.com/user-attachments/assets/8be09f0c-38ed-4abf-89cc-c945ffa9fbc4" />
 <br> 
-- Perintah "su" hanya mengeksekusi file .bashrc, tetapi ketika menggunakan perintah "su -" file yang di eksekusi adalah file /etc/profile dan .bash_profile
+Perintah "su" hanya mengeksekusi file .bashrc, tetapi ketika menggunakan perintah "su -" file yang di eksekusi adalah file /etc/profile dan .bash_profile
 
 ## 2. Prompt String 
 ### a. Edit file .bash_profile, ganti prompt PS1 dengan ‘>’. 
@@ -91,8 +91,10 @@
 
 ### d. Ulangi instruksi pada history bufer nomor 150
 <img width="465" height="44" alt="image" src="https://github.com/user-attachments/assets/f74a008d-1c79-4f63-86b6-e378fd787c33" />
+<br>
 tidak ditemukan
 
 ### e. Ulangi instruksi dengan prefix “ls”
 <img width="465" height="44" alt="image" src="https://github.com/user-attachments/assets/e3c76d80-b343-4e24-ba07-fd23529fa4ff" />
+<br>
 tidak ditemukan juga
