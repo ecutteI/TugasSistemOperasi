@@ -78,3 +78,21 @@
 <img width="530" height="47" alt="image" src="https://github.com/user-attachments/assets/922dc5b6-d017-46b3-94a2-d5bc30c31599" />
 
 ## 6. History
+### a. Ganti nilai HISTSIZE dari 1000 menjadi 20
+<img width="567" height="401" alt="Screenshot From 2026-10-13 09-48-58" src="https://github.com/user-attachments/assets/699c51a1-428d-4f22-a4eb-e37fcfa1127d" />
+
+### b. Gunakan fasilitas history dengan mengedit instruksi baris ke 5
+<img width="156" height="30" alt="" src="https://github.com/user-attachments/assets/152e7a52-9852-43c4-bb02-826bc2af555a" />
+<br>
+<img width="471" height="23" alt="" src="https://github.com/user-attachments/assets/4c83afcb-7be5-4fef-9d9b-0d109359fad6" />
+
+### c. Ulangi instruksi yang terakhir
+<img width="465" height="44" alt="" src="https://github.com/user-attachments/assets/867c97d3-902b-41f3-82aa-a915d22b4d2d" />
+
+### d. Ulangi instruksi pada history bufer nomor 150
+<img width="465" height="44" alt="image" src="https://github.com/user-attachments/assets/f74a008d-1c79-4f63-86b6-e378fd787c33" />
+tidak ditemukan
+
+### e. Ulangi instruksi dengan prefix “ls”
+<img width="465" height="44" alt="image" src="https://github.com/user-attachments/assets/e3c76d80-b343-4e24-ba07-fd23529fa4ff" />
+tidak ditemukan juga
